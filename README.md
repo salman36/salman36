@@ -91,11 +91,11 @@ I enjoy solving complex problems, optimizing performance, and turning business r
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman36&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman36&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman36&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman36&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman36&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman36&theme=tokyonight)
 
 ---
 
