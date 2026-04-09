@@ -2,7 +2,7 @@
 ### Senior Software Engineer | Full Stack Developer  
 
 💻 Building scalable backend systems & real-time applications  
-⚙️ متخصص in Laravel, Node.js, and API architecture  
+⚙️ in Laravel, Node.js, and API architecture  
 📍 Pakistan | 🌐 Open to global opportunities  
 
 ---
