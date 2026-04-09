@@ -1,27 +1,19 @@
 # 🚀 Hafiz M Suleman Khan  
-### Senior Software Engineer | Full Stack Developer  
+### Backend-Focused Full Stack Engineer  
 
-💻 Building scalable backend systems & real-time applications  
-⚙️ in Laravel, Node.js, and API architecture  
-📍 Pakistan | 🌐 Open to global opportunities  
+⚡ I build high-performance APIs, real-time systems & monitoring platforms  
+🧠 Specialized in Laravel, Node.js & scalable backend architecture  
+📍 Pakistan | 🌍 Open to remote opportunities  
 
 ---
 
 ## 🧠 About Me  
 
-I am a results-driven Senior Software Engineer with hands-on experience in designing and developing high-performance web and mobile systems.  
+I am a Senior Software Engineer focused on building **scalable backend systems, real-time applications, and automation-driven platforms**.  
 
-I specialize in:  
-- Architecting scalable backend systems  
-- Building robust RESTful APIs  
-- Developing real-time data processing solutions  
-- Integrating complex third-party services & webhooks  
+I have hands-on experience in designing and delivering **enterprise-grade solutions** including CRM, CMS, monitoring systems, and webhook-based architectures.  
 
-I have contributed to enterprise-level applications including:  
-- CRM & CMS platforms  
-- Monitoring & tracking systems  
-- Automation & webhook-based architectures  
-- Social media data parsing systems  
+I enjoy solving complex problems, optimizing performance, and turning business requirements into **efficient, production-ready systems**.  
 
 ---
 
@@ -50,7 +42,7 @@ I have contributed to enterprise-level applications including:
 
 ---
 
-## 🏗️ What I’ve Built  
+## 🏗️ Key Work & Systems  
 
 ### 🔍 Monitoring & Tracking Systems  
 - Social media monitoring (WhatsApp, Facebook, Instagram, etc.)  
@@ -58,26 +50,26 @@ I have contributed to enterprise-level applications including:
 - Geo-location & geofencing systems  
 - Multimedia capture & screen recording engines  
 
-### ⚙️ Enterprise Systems  
-- CRM & CMS platforms  
-- Ticketing & support systems  
-- Webhook-based integrations  
-- Automation tools (Robocalls, AGI systems)  
+### ⚙️ Enterprise Platforms  
+- CRM & CMS systems  
+- Ticketing & support platforms  
+- Webhook integrations & automation tools  
+- Robocall & AGI-based systems  
 
-### 🔄 Real-Time Systems  
-- Live data syncing via webhooks  
-- Event-driven architecture  
-- High-performance API services  
+### 🔄 Real-Time & API Systems  
+- Event-driven architectures  
+- Live data syncing using webhooks  
+- High-performance backend APIs  
 
 ---
 
 ## 📈 Strengths  
 
-- Clean, scalable architecture  
-- Strong problem-solving mindset  
+- Scalable backend architecture  
+- Clean and maintainable code  
 - Performance optimization  
+- Problem-solving mindset  
 - Backend-heavy system design  
-- Quick adaptability to new technologies  
 
 ---
 
@@ -97,7 +89,23 @@ I have contributed to enterprise-level applications including:
 
 ---
 
-## ⚡ GitHub Stats  
+## 📊 GitHub Stats  
 
-⭐ Focused on building production-level systems  
-🚀 Always learning, always improving  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+## ⚡ Profile Highlights  
+
+- 🚀 Production-level system builder  
+- ⚙️ Backend & API specialist  
+- 🔄 Real-time systems experience  
+- 📈 Continuous learner  
+
+---
+
+⭐ *Focused on building impactful systems — always learning, always improving.*
