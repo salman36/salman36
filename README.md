@@ -97,6 +97,12 @@ I enjoy solving complex problems, optimizing performance, and turning business r
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman36&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api?username=salman36&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman36&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salman36&theme=tokyonight" />
+
 ---
 
 ## ⚡ Profile Highlights  
